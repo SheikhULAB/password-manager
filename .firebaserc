@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "password-manager-a78d1": {
+      "hosting": {
+        "password-manager": [
+          "password-manager-a78d1"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "password-manager-a78d1"
+  }
+}
