@@ -1,4 +1,4 @@
-LIVE WEBSITE:: https://luxury-pasca-373fd5.netlify.app/site-list
+LIVE WEBSITE:: https://luxury-pasca-373fd5.netlify.app
 
 # PasswordManager
 
